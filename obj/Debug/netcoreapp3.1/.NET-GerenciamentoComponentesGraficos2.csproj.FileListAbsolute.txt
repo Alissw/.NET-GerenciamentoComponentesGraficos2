@@ -1,0 +1,13 @@
+C:\github\.NET-GerenciamentoComponentesGraficos2\bin\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.exe
+C:\github\.NET-GerenciamentoComponentesGraficos2\bin\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.deps.json
+C:\github\.NET-GerenciamentoComponentesGraficos2\bin\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.runtimeconfig.json
+C:\github\.NET-GerenciamentoComponentesGraficos2\bin\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.runtimeconfig.dev.json
+C:\github\.NET-GerenciamentoComponentesGraficos2\bin\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.dll
+C:\github\.NET-GerenciamentoComponentesGraficos2\bin\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.pdb
+C:\github\.NET-GerenciamentoComponentesGraficos2\obj\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.csprojAssemblyReference.cache
+C:\github\.NET-GerenciamentoComponentesGraficos2\obj\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.csproj.CoreCompileInputs.cache
+C:\github\.NET-GerenciamentoComponentesGraficos2\obj\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.AssemblyInfoInputs.cache
+C:\github\.NET-GerenciamentoComponentesGraficos2\obj\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.AssemblyInfo.cs
+C:\github\.NET-GerenciamentoComponentesGraficos2\obj\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.dll
+C:\github\.NET-GerenciamentoComponentesGraficos2\obj\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.pdb
+C:\github\.NET-GerenciamentoComponentesGraficos2\obj\Debug\netcoreapp3.1\.NET-GerenciamentoComponentesGraficos2.genruntimeconfig.cache
